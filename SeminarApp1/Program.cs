@@ -256,7 +256,6 @@ namespace SeminarApp1
                 {
                     this.x[i] = rand.NextDouble() * rightBounds[i];
                 }
-
                 value = PenaltyFunction(this.x);
             }
         }
