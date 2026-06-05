@@ -70,7 +70,7 @@ namespace SeminarApp1
                 Console.Write(")\t");
                 Console.WriteLine($"f(P_{i + 1}) = {results[i].value:F3}");
             }
-            Console.ReadKey();
+            //Console.ReadKey(); // Если консоль будет закрываться сразу же после завершения выполнения программы
 
             return;
         }
