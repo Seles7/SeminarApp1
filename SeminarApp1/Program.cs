@@ -58,7 +58,7 @@ namespace SeminarApp1
             // Вывод результатов
             Console.WriteLine("РЕЗУЛЬТАТЫ\n==========");
             Console.WriteLine($"Число поисков решений: {Nr}");
-            Console.WriteLine($"Найденные уникальные решения:");
+            Console.WriteLine($"\nНайденные уникальные решения:");
             for (int i = 0; i < results.Count; i++)
             {
                 Console.Write($"Точка P_{i + 1}: (");
@@ -70,7 +70,8 @@ namespace SeminarApp1
                 Console.Write(")\t");
                 Console.WriteLine($"f(P_{i + 1}) = {results[i].value:F3}");
             }
-            //Console.ReadKey(); // Если консоль будет закрываться сразу же после завершения выполнения программы
+            Console.WriteLine("\nПрограмма завершила вычисления.");
+            Console.WriteLine("Нажмите Enter для завершения программы."); Console.ReadLine(); // Если консоль будет закрываться сразу же после завершения выполнения программы
 
             return;
         }
