@@ -1,8 +1,0 @@
-C:\Users\Serg\source\repos\SeminarApp1\SeminarApp1\bin\Debug\SeminarApp1.exe.config
-C:\Users\Serg\source\repos\SeminarApp1\SeminarApp1\bin\Debug\SeminarApp1.exe
-C:\Users\Serg\source\repos\SeminarApp1\SeminarApp1\bin\Debug\SeminarApp1.pdb
-C:\Users\Serg\source\repos\SeminarApp1\SeminarApp1\obj\Debug\SeminarApp1.csproj.AssemblyReference.cache
-C:\Users\Serg\source\repos\SeminarApp1\SeminarApp1\obj\Debug\SeminarApp1.csproj.CoreCompileInputs.cache
-C:\Users\Serg\source\repos\SeminarApp1\SeminarApp1\obj\Debug\SeminarApp1.exe
-C:\Users\Serg\source\repos\SeminarApp1\SeminarApp1\obj\Debug\SeminarApp1.pdb
-C:\Users\Serg\source\repos\SeminarApp1\SeminarApp1\obj\Debug\SeminarApp1.exe.config
